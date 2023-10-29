@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="check_header">Check Information</string>
+    <string name="api_header">API</string>
+    <string name="apidetial_header">API</string>
+    <string name="history_header">History</string>
+    <string name="source_label">From</string>
+    <string name="source_name">Tungngern Cafe</string>
+    <string name="destination_label">To</string>
+    <string name="destination_name">Tittawat Jai-ou</string>
+    <string name="destination_No">xxx–x–xx564–3</string>
+    <string name="total_label_1">Total Amount </string>
+    <string name="total_value">500</string>
+    <string name="total_label_2">Bath</string>
+    <string name="warning_label">*ยอดคงค้าง 1,000 บาท ในระบบ จะโอนเข้าบัญชีโดยอัตโนมัติ</string>
+    <string name="confirm_button_label">Confirm</string>
+    <string name="value_100">100</string>
+    <string name="value_500">500</string>
+    <string name="value_1000">1000</string>
+</resources>

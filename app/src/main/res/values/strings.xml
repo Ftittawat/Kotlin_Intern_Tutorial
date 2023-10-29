@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="check_header">ตรวจสอบข้อมูล</string>
+    <string name="api_header">API</string>
+    <string name="apidetial_header">API</string>
+    <string name="history_header">ประวัติ</string>
+    <string name="source_label">จากร้านค้า</string>
+    <string name="source_name">ถุงเงินคาเฟ่</string>
+    <string name="destination_label">ไปยัง</string>
+    <string name="destination_name">ทิตธวัช ใจอู่</string>
+    <string name="destination_No">xxx–x–xx564–3</string>
+    <string name="total_label_1">ยอดรวม</string>
+    <string name="total_value">500</string>
+    <string name="total_label_2">บาท</string>
+    <string name="warning_label">*ยอดคงค้าง 1,000 บาท ในระบบ จะโอนเข้าบัญชีโดยอัตโนมัติ</string>
+    <string name="confirm_button_label">ยืนยันการโอนเงินเช้าบัญชี</string>
+    <string name="value_100">100</string>
+    <string name="value_500">500</string>
+    <string name="value_1000">1000</string>
+</resources>
