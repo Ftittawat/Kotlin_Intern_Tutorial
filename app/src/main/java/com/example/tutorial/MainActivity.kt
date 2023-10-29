@@ -10,7 +10,7 @@ import retrofit2.*
 import retrofit2.converter.gson.GsonConverterFactory
 
 class MainActivity : AppCompatActivity() {
-
+    //HomeScreen
     private lateinit var binding: HomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
